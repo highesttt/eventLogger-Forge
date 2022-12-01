@@ -22,7 +22,7 @@ public class EatEvent {
             if (event.getItem().getItem().isEdible()) {
                 Player player = (Player) event.getEntity();
                 String message = "[" + new Date().toString() + "] " + player.getName().getString() + " ate " + event.getItem().getDisplayName().getString() + ".";
-                updateFile.update(message);
+                updateFile.update(message, "eat");
             }
         }
     }
