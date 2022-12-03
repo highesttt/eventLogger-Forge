@@ -6,14 +6,14 @@ If you have any suggestions or bug reports, feel free to use the [issues](https:
 
 ## Current events supported:
   - Player eat - eat.txt
-  - Player using firework while flying with an Elytra
-  - Player dying
-  - Player dealing damage
-  - Player taking damage
-  - Player jumping
-  - Player joining world/server
-  - Player leaving world/server
-  - Minecraft Day update
+  - Player using firework while flying with an Elytra - rocket.txt
+  - Player dying - death.txt
+  - Player dealing damage - damage.txt
+  - Player taking damage - damaged.txt
+  - Player jumping - jump.txt
+  - Player joining world/server - connect.txt
+  - Player leaving world/server - disconnect.txt
+  - Minecraft Day update - day.txt
 
 
 ### You can check our latest release [here](https://github.com/highesttt/eventLogger-Forge/releases/latest).
